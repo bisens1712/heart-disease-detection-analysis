@@ -1,6 +1,6 @@
 # heart-disease-detection-analysis
 
-# Predicting heart-disease using machine-learning
+## Predicting heart-disease using machine-learning
 
 predicting whether someone has heart-disease or not based on data science and machine-learning tools.
 
